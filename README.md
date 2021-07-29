@@ -1,2 +1,2 @@
 # OpenCV-Utils
-OpenCv util module in python
+My own OpenCV utility module in python.
